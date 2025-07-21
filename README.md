@@ -33,7 +33,7 @@ To leverage my passion for cybersecurity and hands-on experience in threat detec
 | Scripting and Automation for Threat Mitigation | [Python Security Scripts](#) |
 | Vulnerability Assessment & Penetration Testing | [Web App Pentest Report](#) |
 | Threat Hunting and Log Correlation        | [LetsDefend SIEM Challenges](#) |
-| Secure SDLC and Developer Collaboration   | [DevSecOps Implementation](#) |
+| Secure SDLC and Developer Collaboration   | <a href="https://github.com/cyberkid882/zuhsyn-edubox-threat-model" target="_blank">DevSecOps Implimentation</a> |
 
 
 ## Tools
@@ -99,5 +99,5 @@ To leverage my passion for cybersecurity and hands-on experience in threat detec
 | **Web Application Pentest** | Performed vulnerability assessment on web applications. Discovered and reported a valid critical bug on TikTok's web server (duplicate submission). | Burp Suite, Nmap, Nikto, Recon Tools |
 | **Python DDoS Testing Tool** | Created a custom DDoS tool in Python for educational purposes and to test rate-limiting and protection mechanisms in a controlled lab. | Python, Sockets, Networking |
 | **LetsDefend SIEM Challenges** | Completed real-world alert investigations on LetsDefend including phishing, brute-force, and malware cases. Gained multiple practical badges. | LetsDefend, Investigation, Playbook Building |
-| **Security Awareness & Training** | Led workshops and training sessions for students on topics such as phishing, password hygiene, and online safety. | Public Speaking, Canva, Curriculum Design |
+| **zuhsyn-edubox-threat-model** |A comprehensive threat model for Zuhsyn Edubox, an educational mobile app built with React Native and Django REST Framework. This report identifies potential security threats using the STRIDE methodology and provides mitigation strategies to enhance application security.|STRIDE Framework – for threat classification |
 
