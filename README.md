@@ -9,7 +9,7 @@ I've worked closely with development teams to ensure **security is implemented f
 
 🏆 I hold a Cisco Cybersecurity Essentials certificate, discovered a valid (but duplicate) critical bug on TikTok’s web server, and actively build my skills on platforms like TryHackMe and LetsDefend.
 
-🔐 I'm the **Head of Security** and **Co-Founder (CFO)** at [Zuhsyn Innovations Limited](#), where we focus on delivering cybersecurity solutions, SaaS platforms, AI-driven tools, and other modern technologies.
+🔐 I'm currently working as a  **Blue Team Analyst** at [Zuhsyn Innovations Limited](#), where we focus on delivering cybersecurity solutions, SaaS platforms, AI-driven tools, and other modern technologies.
 
 🚀 Always learning. Always building. Always defending.
 
